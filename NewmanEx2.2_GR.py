@@ -1,4 +1,4 @@
-#Altitude of a satellite
+#Altitude of a satellite by Grady Robbins, AST4930
 
 from math import pi
 
